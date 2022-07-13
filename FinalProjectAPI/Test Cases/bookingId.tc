@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>bookingById</description>
+   <name>bookingId</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>da246bb8-4d38-4cb6-a2b7-ce2df79d3171</testCaseGuid>
+</TestCaseEntity>
